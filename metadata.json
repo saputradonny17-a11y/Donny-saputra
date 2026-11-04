@@ -1,0 +1,6 @@
+{
+  "name": "Sistem KPI & Kinerja Karyawan Transparan",
+  "description": "Sistem evaluasi kinerja karyawan terpadu berdasarkan sikap, absensi, dan pencapaian target bulanan transparan dengan database karyawan dan ekspor Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
